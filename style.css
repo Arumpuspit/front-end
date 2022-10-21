@@ -9,7 +9,7 @@ body{
     box-sizing: 50px;
    }
    .konten{
-    background:#63b1e4;
+    background:#212121;
     border: #00868b;
     width: 1230px;
     margin: 80px auto ;
@@ -17,7 +17,7 @@ body{
     overflow: hidden;
    }
    .kepala{
-    background: #1308a4;
+    background: #30b8f2;
     padding: 7px 7px;
  height: 40px;
 }
